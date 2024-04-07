@@ -50,6 +50,104 @@
 }
 
 
+/*
+.
+.
+form
+.
+.
+*/
+
+@media (min-width: 576px) {
+  #cognoms {
+    margin-top: 2vw;
+    margin-bottom: 0.5vw;
+  }
+}
+
+@media (min-width: 768px) {
+  #cognoms {
+    margin-top: 0vw;
+    margin-bottom: 0.5vw;
+  }
+}
+
+@media (min-width: 576px) {
+  #password {
+    margin-top: 2vw;
+    margin-bottom: 0.5vw;
+  }
+}
+
+@media (min-width: 768px) {
+  #password {
+    margin-top: 0vw;
+    margin-bottom: 0.5vw;
+  }
+}
+
+@media (min-width: 576px) {
+  #ciutat {
+    margin-top: 2vw;
+    margin-bottom: 0.5vw;
+  }
+}
+
+@media (min-width: 768px) {
+  #ciutat {
+    margin-top: 0vw;
+    margin-bottom: 0.5vw;
+  }
+}
+
+@media (min-width: 576px) {
+  #codigoP {
+    margin-top: 2vw;
+    margin-bottom: 0.5vw;
+  }
+}
+
+@media (min-width: 768px) {
+  #codigoP {
+    margin-top: 0vw;
+    margin-bottom: 0.5vw;
+  }
+}
+
+#acceptocondicions{
+  margin-top: 1.5vw;
+  margin-bottom: 1.5vw;
+}
+
+@media (min-width: 768px) {
+  #acceptocondicions {
+    margin-top: 1.5vw;
+    margin-bottom: 1.5vw;  }
+}
+
+#direccion{
+  margin-top: 1.5vw;
+  margin-bottom: 1.5vw;
+}
+
+@media (min-width: 768px) {
+  #direccion {
+    margin-top: 1.5vw;
+    /*margin-bottom: 1.5vw;*/  }
+}
+
+
+#correupassword{
+  margin-top: 1.5vw;
+  margin-bottom: 1.5vw;
+}
+
+@media (min-width: 768px) {
+  #correupassword {
+    margin-top: 1.5vw;
+    margin-bottom: 1.5vw;  }
+}
+
 header.masthead {
     position: relative;
     background-color: #343a40;
