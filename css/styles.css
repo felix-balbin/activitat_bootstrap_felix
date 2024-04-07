@@ -1,3 +1,55 @@
+#texto {
+  font-size: 1.1rem;
+}
+
+@media (min-width: 768px) {
+  #texto {
+    font-size: 1.4rem;
+    font-weight: 300;
+  }
+}
+
+@media (min-width: 992px) {
+  #texto {
+    font-size: 1.3rem;
+    font-weight: 200;
+  }
+}
+
+@media (min-width: 1200px){
+  #texto {
+    font-size: 1.1rem
+  }
+}
+
+
+
+#titol_texto {
+  font-size: 1.25rem;
+}
+
+@media (min-width: 768px) {
+  #titol_texto {
+    font-size: 2.2rem;
+    font-weight: 450;
+  }
+}
+
+@media (min-width: 992px) {
+  #titol_texto {
+    font-size: 2rem;
+    font-weight: 400;
+  }
+}
+
+@media (min-width: 1200px) {
+  #titol_texto {
+    font-size: 1.5rem;
+    font-weight:500;
+  }
+}
+
+
 header.masthead {
     position: relative;
     background-color: #343a40;
